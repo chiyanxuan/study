@@ -1,0 +1,11 @@
+syntax="proto2";
+
+package com.nil.study.serial;
+
+option java_package="com.nil.study.serial";
+option java_outer_classname="UserProto";
+
+message User {
+	required string name=1;
+	required int32 age=2;
+}
