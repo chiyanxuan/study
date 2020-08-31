@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="313f5215-da20-4454-b884-1bf0a2372d1f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/sonarlint/issuestore/0/5/0523245ba27f6ae64b54e08f0e19e31026f084d3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/sonarlint/issuestore/1/2/12dea96fec20593566ab75692c9949596833adc9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/sonarlint/issuestore/1/e/1e82d505a87c5f6307390f140cf52b0fec86acaa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/sonarlint/issuestore/2/1/21cbe1b20f9aef90c5c9ffda469b0e70faab7c07" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/sonarlint/issuestore/5/4/548aebd64fdba5b75def3baa0c8df64ac54f6c97" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/sonarlint/issuestore/6/3/63dff1a7deb7d5c4e1ac4ad7a3ec00970aba8355" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/sonarlint/issuestore/8/2/820b7e1f461b773fb3d9af1b87becf116024708c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/sonarlint/issuestore/9/6/96a58704ad403041d2e20549d8b54ccc1c921145" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/sonarlint/issuestore/a/3/a3cf7f651a78c1839d3025715947b9156276537c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/sonarlint/issuestore/a/a/aa067e4ba78d09b4f4c76ac1eeeb30a2ab2afe62" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/sonarlint/issuestore/a/f/af4af5590e025cb30dcfa64e15909f595d704eba" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/sonarlint/issuestore/b/0/b0cb69386041b7f6cbbbdfc241ddd9114f7d3953" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/sonarlint/issuestore/c/3/c3f4c3725479f29f20133633c56ee3f8d0b264d7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/sonarlint/issuestore/c/8/c8d82d2ba04091fa33c7fb5f514d32b4e010f39b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/sonarlint/issuestore/d/c/dcd483e0283bf9af765da6b1bd87ac749b6c139c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/sonarlint/issuestore/e/8/e8dc9226a6ea1fed0df852d5bc300e5ab786934b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/sonarlint/issuestore/f/c/fc48f75179d9ea50505758c53224b4ce772b96ea" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/serial-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/target/classes/User.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/target/classes/com/nil/study/serial/ClientSocketDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/target/classes/com/nil/study/serial/HessianSer/HessianSerializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/target/classes/com/nil/study/serial/HessianSer/HessianSerializerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/target/classes/com/nil/study/serial/ServerSocketDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/target/classes/com/nil/study/serial/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/target/classes/com/nil/study/serial/UserProto$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/target/classes/com/nil/study/serial/UserProto$User$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/target/classes/com/nil/study/serial/UserProto$User$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/target/classes/com/nil/study/serial/UserProto$User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/target/classes/com/nil/study/serial/UserProto$UserOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/target/classes/com/nil/study/serial/UserProto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/target/classes/com/nil/study/serial/UserProto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/target/classes/com/nil/study/serial/inteface/ISerializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/target/classes/com/nil/study/serial/javaSer/JavaSerializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/target/classes/com/nil/study/serial/javaSer/JavaSerializerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/target/classes/com/nil/study/serial/javaSer/JavaSerializerTransientTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/target/classes/com/nil/study/serial/javaSerFile/JavaSerializerFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/target/classes/com/nil/study/serial/javaSerFile/JavaSerializerFromFileTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/target/classes/com/nil/study/serial/javaSerFile/JavaSerializerToFileTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/target/classes/com/nil/study/serial/protobuf/ProtobufMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/target/classes/com/nil/study/serial/xmlSer/XMLSerializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/target/classes/com/nil/study/serial/xmlSer/XMLSerializerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/target/classes/序列化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdk-timer-schedulerExecutor/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdk-timer-schedulerExecutor/src/main/java/ScheduledThreadPoolExecutorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdk-timer-schedulerExecutor/src/main/java/TimerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quartz-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quartz-demo/src/main/java/HelloworldJob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quartz-demo/src/main/java/QuartzDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quartz-demo/src/main/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule-demo/src/main/java/com/nil/study/scheduledemo/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-quratz/src/main/java/com/example/springbootquratz/CustomJob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-quratz/src/main/java/com/example/springbootquratz/MyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-quratz/src/main/java/com/example/springbootquratz/QuartzConfig.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../software/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../../../software/apache-maven-3.5.2/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1goz6Wg5kNpBfuqKLun58FL6ujy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.32068965" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringbootQuratzApplication">
+    <configuration name="QuartzDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuartzDemo" />
+      <module name="quartz-demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScheduledThreadPoolExecutorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ScheduledThreadPoolExecutorDemo" />
+      <module name="jdk-timer-schedulerExecutor" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="quartz-demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TimerDemo" />
+      <module name="jdk-timer-schedulerExecutor" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuartzDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="timer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.QuartzDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScheduleDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="schedule-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nil.study.scheduledemo.ScheduleDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootQuratzApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-quratz" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springbootquratz.SpringbootQuratzApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.QuartzDemo" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.ScheduledThreadPoolExecutorDemo" />
+        <item itemvalue="Application.TimerDemo" />
+        <item itemvalue="Spring Boot.QuartzDemoApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="313f5215-da20-4454-b884-1bf0a2372d1f" name="Default Changelist" comment="" />
+      <created>1598795557450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598795557450</updated>
+      <workItem from="1598795561380" duration="3142000" />
+      <workItem from="1598798908541" duration="5727000" />
+      <workItem from="1598850531534" duration="214000" />
+      <workItem from="1598850767748" duration="183000" />
+      <workItem from="1598852841671" duration="1678000" />
+      <workItem from="1598855049959" duration="568000" />
+      <workItem from="1598860981298" duration="2901000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="756" y="204" key="#Project_Structure" timestamp="1598878262851">
+      <screen x="0" y="23" width="2048" height="1187" />
+    </state>
+    <state x="756" y="204" key="#Project_Structure/0.23.2048.1187/-2560.-413.2560.1417@0.23.2048.1187" timestamp="1598878262851" />
+    <state x="756" y="204" key="#Project_Structure/0.23.2048.1189/-2560.-413.2560.1417@0.23.2048.1189" timestamp="1598853040248" />
+    <state x="756" y="204" key="#Project_Structure/0.23.2048.1190/-2560.-413.2560.1417@0.23.2048.1190" timestamp="1598848708479" />
+    <state x="1533" y="398" key="#com.intellij.ide.util.MemberChooser" timestamp="1598878372362">
+      <screen x="0" y="23" width="2048" height="1187" />
+    </state>
+    <state x="1533" y="398" key="#com.intellij.ide.util.MemberChooser/0.23.2048.1187/-2560.-413.2560.1417@0.23.2048.1187" timestamp="1598878372362" />
+    <state x="1533" y="399" key="#com.intellij.ide.util.MemberChooser/0.23.2048.1189/-2560.-413.2560.1417@0.23.2048.1189" timestamp="1598849431947" />
+    <state x="1533" y="401" key="#com.intellij.ide.util.MemberChooser/0.23.2048.1194@0.23.2048.1194" timestamp="1598798960630" />
+    <state width="1875" height="365" key="GridCell.Tab.0.bottom" timestamp="1598879554872">
+      <screen x="0" y="23" width="2048" height="1187" />
+    </state>
+    <state width="1875" height="365" key="GridCell.Tab.0.bottom/0.23.2048.1187/-2560.-413.2560.1417@0.23.2048.1187" timestamp="1598879554872" />
+    <state width="1875" height="367" key="GridCell.Tab.0.bottom/0.23.2048.1189/-2560.-413.2560.1417@0.23.2048.1189" timestamp="1598853120919" />
+    <state width="1875" height="119" key="GridCell.Tab.0.bottom/0.23.2048.1190/-2560.-413.2560.1417@0.23.2048.1190" timestamp="1598848885266" />
+    <state width="1875" height="486" key="GridCell.Tab.0.bottom/0.23.2048.1193/-2560.-413.2560.1417@0.23.2048.1193" timestamp="1598855031559" />
+    <state width="1875" height="324" key="GridCell.Tab.0.bottom/0.23.2048.1193@0.23.2048.1193" timestamp="1598796350579" />
+    <state width="1875" height="119" key="GridCell.Tab.0.bottom/0.23.2048.1194@0.23.2048.1194" timestamp="1598800218581" />
+    <state width="1875" height="365" key="GridCell.Tab.0.center" timestamp="1598879554871">
+      <screen x="0" y="23" width="2048" height="1187" />
+    </state>
+    <state width="1875" height="365" key="GridCell.Tab.0.center/0.23.2048.1187/-2560.-413.2560.1417@0.23.2048.1187" timestamp="1598879554871" />
+    <state width="1875" height="367" key="GridCell.Tab.0.center/0.23.2048.1189/-2560.-413.2560.1417@0.23.2048.1189" timestamp="1598853120918" />
+    <state width="1875" height="119" key="GridCell.Tab.0.center/0.23.2048.1190/-2560.-413.2560.1417@0.23.2048.1190" timestamp="1598848885265" />
+    <state width="1875" height="486" key="GridCell.Tab.0.center/0.23.2048.1193/-2560.-413.2560.1417@0.23.2048.1193" timestamp="1598855031558" />
+    <state width="1875" height="324" key="GridCell.Tab.0.center/0.23.2048.1193@0.23.2048.1193" timestamp="1598796350578" />
+    <state width="1875" height="119" key="GridCell.Tab.0.center/0.23.2048.1194@0.23.2048.1194" timestamp="1598800218580" />
+    <state width="1875" height="365" key="GridCell.Tab.0.left" timestamp="1598879554870">
+      <screen x="0" y="23" width="2048" height="1187" />
+    </state>
+    <state width="1875" height="365" key="GridCell.Tab.0.left/0.23.2048.1187/-2560.-413.2560.1417@0.23.2048.1187" timestamp="1598879554870" />
+    <state width="1875" height="367" key="GridCell.Tab.0.left/0.23.2048.1189/-2560.-413.2560.1417@0.23.2048.1189" timestamp="1598853120917" />
+    <state width="1875" height="119" key="GridCell.Tab.0.left/0.23.2048.1190/-2560.-413.2560.1417@0.23.2048.1190" timestamp="1598848885264" />
+    <state width="1875" height="486" key="GridCell.Tab.0.left/0.23.2048.1193/-2560.-413.2560.1417@0.23.2048.1193" timestamp="1598855031558" />
+    <state width="1875" height="324" key="GridCell.Tab.0.left/0.23.2048.1193@0.23.2048.1193" timestamp="1598796350578" />
+    <state width="1875" height="119" key="GridCell.Tab.0.left/0.23.2048.1194@0.23.2048.1194" timestamp="1598800218579" />
+    <state width="1875" height="365" key="GridCell.Tab.0.right" timestamp="1598879554871">
+      <screen x="0" y="23" width="2048" height="1187" />
+    </state>
+    <state width="1875" height="365" key="GridCell.Tab.0.right/0.23.2048.1187/-2560.-413.2560.1417@0.23.2048.1187" timestamp="1598879554871" />
+    <state width="1875" height="367" key="GridCell.Tab.0.right/0.23.2048.1189/-2560.-413.2560.1417@0.23.2048.1189" timestamp="1598853120918" />
+    <state width="1875" height="119" key="GridCell.Tab.0.right/0.23.2048.1190/-2560.-413.2560.1417@0.23.2048.1190" timestamp="1598848885265" />
+    <state width="1875" height="486" key="GridCell.Tab.0.right/0.23.2048.1193/-2560.-413.2560.1417@0.23.2048.1193" timestamp="1598855031558" />
+    <state width="1875" height="324" key="GridCell.Tab.0.right/0.23.2048.1193@0.23.2048.1193" timestamp="1598796350578" />
+    <state width="1875" height="119" key="GridCell.Tab.0.right/0.23.2048.1194@0.23.2048.1194" timestamp="1598800218580" />
+    <state width="1875" height="250" key="GridCell.Tab.1.bottom" timestamp="1598879554761">
+      <screen x="0" y="23" width="2048" height="1187" />
+    </state>
+    <state width="1875" height="250" key="GridCell.Tab.1.bottom/0.23.2048.1187/-2560.-413.2560.1417@0.23.2048.1187" timestamp="1598879554761" />
+    <state width="1875" height="255" key="GridCell.Tab.1.bottom/0.23.2048.1194@0.23.2048.1194" timestamp="1598797603730" />
+    <state width="1875" height="250" key="GridCell.Tab.1.center" timestamp="1598879554761">
+      <screen x="0" y="23" width="2048" height="1187" />
+    </state>
+    <state width="1875" height="250" key="GridCell.Tab.1.center/0.23.2048.1187/-2560.-413.2560.1417@0.23.2048.1187" timestamp="1598879554761" />
+    <state width="1875" height="255" key="GridCell.Tab.1.center/0.23.2048.1194@0.23.2048.1194" timestamp="1598797603729" />
+    <state width="1875" height="250" key="GridCell.Tab.1.left" timestamp="1598879554760">
+      <screen x="0" y="23" width="2048" height="1187" />
+    </state>
+    <state width="1875" height="250" key="GridCell.Tab.1.left/0.23.2048.1187/-2560.-413.2560.1417@0.23.2048.1187" timestamp="1598879554760" />
+    <state width="1875" height="255" key="GridCell.Tab.1.left/0.23.2048.1194@0.23.2048.1194" timestamp="1598797603729" />
+    <state width="1875" height="250" key="GridCell.Tab.1.right" timestamp="1598879554761">
+      <screen x="0" y="23" width="2048" height="1187" />
+    </state>
+    <state width="1875" height="250" key="GridCell.Tab.1.right/0.23.2048.1187/-2560.-413.2560.1417@0.23.2048.1187" timestamp="1598879554761" />
+    <state width="1875" height="255" key="GridCell.Tab.1.right/0.23.2048.1194@0.23.2048.1194" timestamp="1598797603730" />
+    <state width="1875" height="365" key="GridCell.Tab.2.bottom" timestamp="1598879554750">
+      <screen x="0" y="23" width="2048" height="1187" />
+    </state>
+    <state width="1875" height="365" key="GridCell.Tab.2.bottom/0.23.2048.1187/-2560.-413.2560.1417@0.23.2048.1187" timestamp="1598879554750" />
+    <state width="1875" height="517" key="GridCell.Tab.2.bottom/0.23.2048.1194@0.23.2048.1194" timestamp="1598797337316" />
+    <state width="1875" height="365" key="GridCell.Tab.2.center" timestamp="1598879554749">
+      <screen x="0" y="23" width="2048" height="1187" />
+    </state>
+    <state width="1875" height="365" key="GridCell.Tab.2.center/0.23.2048.1187/-2560.-413.2560.1417@0.23.2048.1187" timestamp="1598879554749" />
+    <state width="1875" height="517" key="GridCell.Tab.2.center/0.23.2048.1194@0.23.2048.1194" timestamp="1598797337315" />
+    <state width="1875" height="365" key="GridCell.Tab.2.left" timestamp="1598879554749">
+      <screen x="0" y="23" width="2048" height="1187" />
+    </state>
+    <state width="1875" height="365" key="GridCell.Tab.2.left/0.23.2048.1187/-2560.-413.2560.1417@0.23.2048.1187" timestamp="1598879554749" />
+    <state width="1875" height="517" key="GridCell.Tab.2.left/0.23.2048.1194@0.23.2048.1194" timestamp="1598797337314" />
+    <state width="1875" height="365" key="GridCell.Tab.2.right" timestamp="1598879554749">
+      <screen x="0" y="23" width="2048" height="1187" />
+    </state>
+    <state width="1875" height="365" key="GridCell.Tab.2.right/0.23.2048.1187/-2560.-413.2560.1417@0.23.2048.1187" timestamp="1598879554749" />
+    <state width="1875" height="517" key="GridCell.Tab.2.right/0.23.2048.1194@0.23.2048.1194" timestamp="1598797337315" />
+    <state x="517" y="284" key="Maven.ArtifactSearchDialog" timestamp="1598852922870">
+      <screen x="0" y="23" width="2048" height="1189" />
+    </state>
+    <state x="517" y="284" key="Maven.ArtifactSearchDialog/0.23.2048.1189/-2560.-413.2560.1417@0.23.2048.1189" timestamp="1598852922870" />
+    <state x="517" y="285" key="Maven.ArtifactSearchDialog/0.23.2048.1193@0.23.2048.1193" timestamp="1598796479001" />
+    <state x="517" y="285" key="Maven.ArtifactSearchDialog/0.23.2048.1194@0.23.2048.1194" timestamp="1598800398601" />
+    <state x="517" y="285" key="Maven.ArtifactSearchDialog/0.23.2048.1195@0.23.2048.1195" timestamp="1598799832805" />
+    <state x="612" y="385" key="NewModule_or_Project.wizard" timestamp="1598878162865">
+      <screen x="0" y="23" width="2048" height="1187" />
+    </state>
+    <state x="612" y="385" key="NewModule_or_Project.wizard/0.23.2048.1187/-2560.-413.2560.1417@0.23.2048.1187" timestamp="1598878162865" />
+    <state x="612" y="386" key="NewModule_or_Project.wizard/0.23.2048.1189/-2560.-413.2560.1417@0.23.2048.1189" timestamp="1598850575948" />
+    <state x="612" y="386" key="NewModule_or_Project.wizard/0.23.2048.1190/-2560.-413.2560.1417@0.23.2048.1190" timestamp="1598848026568" />
+    <state x="561" y="332" key="SettingsEditor" timestamp="1598878169598">
+      <screen x="0" y="23" width="2048" height="1187" />
+    </state>
+    <state x="561" y="332" key="SettingsEditor/0.23.2048.1187/-2560.-413.2560.1417@0.23.2048.1187" timestamp="1598878169598" />
+    <state x="561" y="333" key="SettingsEditor/0.23.2048.1189/-2560.-413.2560.1417@0.23.2048.1189" timestamp="1598852986718" />
+    <state x="561" y="333" key="SettingsEditor/0.23.2048.1190/-2560.-413.2560.1417@0.23.2048.1190" timestamp="1598850700120" />
+    <state x="481" y="262" key="SettingsEditor/0.23.2048.1193@0.23.2048.1193" timestamp="1598796303596" />
+    <state x="626" y="354" key="new project wizard" timestamp="1598878229402">
+      <screen x="0" y="23" width="2048" height="1187" />
+    </state>
+    <state x="626" y="354" key="new project wizard/0.23.2048.1187/-2560.-413.2560.1417@0.23.2048.1187" timestamp="1598878229402" />
+    <state x="626" y="355" key="new project wizard/0.23.2048.1189/-2560.-413.2560.1417@0.23.2048.1189" timestamp="1598849305230" />
+    <state x="626" y="355" key="new project wizard/0.23.2048.1190/-2560.-413.2560.1417@0.23.2048.1190" timestamp="1598848697860" />
+    <state x="626" y="356" key="new project wizard/0.23.2048.1192@0.23.2048.1192" timestamp="1598796055138" />
+    <state x="626" y="356" key="new project wizard/0.23.2048.1193@0.23.2048.1193" timestamp="1598796119969" />
+    <state x="626" y="356" key="new project wizard/0.23.2048.1194@0.23.2048.1194" timestamp="1598795810345" />
+    <state x="1237" y="363" width="670" height="676" key="search.everywhere.popup" timestamp="1598799272642">
+      <screen x="0" y="23" width="2048" height="1194" />
+    </state>
+    <state x="1237" y="363" width="670" height="676" key="search.everywhere.popup/0.23.2048.1194@0.23.2048.1194" timestamp="1598799272642" />
+  </component>
+</project>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="schedule-demo" />
+        <module name="jdk-timer-schedulerExecutor" />
+        <module name="quartz-demo" />
+        <module name="springboot-quratz" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jdk-timer-schedulerExecutor" target="1.8" />
+      <module name="quartz-demo" target="1.8" />
+      <module name="schedule-demo" target="1.8" />
+      <module name="springboot-quratz" target="1.8" />
+      <module name="timer" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="schedule-demo" options="-parameters" />
+      <module name="springboot-quratz" options="-parameters" />
+    </option>
+  </component>
+</project>
