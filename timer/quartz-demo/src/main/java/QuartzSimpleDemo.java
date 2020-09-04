@@ -1,7 +1,7 @@
 import org.quartz.*;
 import org.quartz.impl.StdSchedulerFactory;
 
-public class QuartzDemo {
+public class QuartzSimpleDemo {
 	public static void main(String[] args) {
 		try {
 			SchedulerFactory schedulerFactory = new StdSchedulerFactory();
@@ -17,7 +17,7 @@ public class QuartzDemo {
 					.withIdentity("myTrigger","myTriggerGroup1")
 					.usingJobData("job_trigger_param","job_trigger_param")
 					.startNow()
-					.withSchedule(CronScheduleBuilder.cronSchedule("0/5 * * * * ? 2020"))  //每5s执行一次
+					.withSchedule(SimpleScheduleBuilder.simpleSchedule().withIntervalInSeconds(5).repeatForever())  //每5s执行一次
 					.build();
 			// 注册JobDetail实例到scheduler以及使用对应的Trigger触发时机
 			scheduler.scheduleJob(jobDetail,trigger);
