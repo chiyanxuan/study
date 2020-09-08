@@ -53,16 +53,23 @@
       <change afterPath="$PROJECT_DIR$/../serial-demo/target/classes/com/nil/study/serial/xmlSer/XMLSerializer.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../serial-demo/target/classes/com/nil/study/serial/xmlSer/XMLSerializerTest.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../serial-demo/target/classes/序列化.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quartz-demo/src/main/java/QuartzCalendarDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quartz-demo/src/main/java/QuartzDailyTimeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quartz-demo/src/main/java/QuartzSimpleDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/3/830c57899083fff00fe28a1a1dad6a60c4f43c7e" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-quratz/src/main/java/com/example/springbootquratz/AdaptableJobFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-quratz/src/main/java/com/example/springbootquratz/BaseJob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-quratz/src/main/java/com/example/springbootquratz/InitStartSchedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-quratz/src/main/java/com/example/springbootquratz/MyJobFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-quratz/src/main/java/com/example/springbootquratz/SchedulerUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-quratz/src/main/java/com/example/springbootquratz/entity/SysJob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../valid-demo/custom-valid/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../valid-demo/custom-valid/src/main/java/com/tencent/valid/ConditionEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../valid-demo/custom-valid/src/main/java/com/tencent/valid/ConditionValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../valid-demo/custom-valid/src/main/java/com/tencent/valid/MyValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../valid-demo/custom-valid/src/main/java/com/tencent/valid/MyValidatorClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../valid-demo/demo/src/main/java/com/example/demo/bean/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../valid-demo/demo/src/main/java/com/example/demo/controller/HelloWorldController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../valid-demo/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz-demo/src/main/java/QuartzDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/quartz-demo/src/main/java/QuartzCronDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz-demo/target/classes/QuartzDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/定时器.md" beforeDir="false" afterPath="$PROJECT_DIR$/定时器.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-quratz/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-quratz/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,6 +124,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.springbootquratz" />
+      <recent name="com.example.springbootquratz.entity" />
       <recent name="" />
     </key>
   </component>
@@ -197,7 +206,8 @@
       <workItem from="1598852841671" duration="1678000" />
       <workItem from="1598855049959" duration="568000" />
       <workItem from="1598860981298" duration="6171000" />
-      <workItem from="1598950798335" duration="2146000" />
+      <workItem from="1598950798335" duration="2975000" />
+      <workItem from="1599553743539" duration="1191000" />
     </task>
     <task id="LOCAL-00001" summary="定时器学习">
       <created>1598880612671</created>
@@ -206,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598880612671</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="定时器学习">
+      <created>1599231669347</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599231669347</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,18 +240,20 @@
     <state x="756" y="204" key="#Project_Structure/0.23.2048.1187/-2560.-413.2560.1417@0.23.2048.1187" timestamp="1598878262851" />
     <state x="756" y="204" key="#Project_Structure/0.23.2048.1189/-2560.-413.2560.1417@0.23.2048.1189" timestamp="1598853040248" />
     <state x="756" y="204" key="#Project_Structure/0.23.2048.1190/-2560.-413.2560.1417@0.23.2048.1190" timestamp="1598848708479" />
-    <state x="1533" y="398" key="#com.intellij.ide.util.MemberChooser" timestamp="1598936156912">
-      <screen x="0" y="23" width="2048" height="1187" />
+    <state x="1533" y="401" key="#com.intellij.ide.util.MemberChooser" timestamp="1599553818216">
+      <screen x="0" y="23" width="2048" height="1196" />
     </state>
     <state x="1533" y="398" key="#com.intellij.ide.util.MemberChooser/0.23.2048.1187/-2560.-413.2560.1417@0.23.2048.1187" timestamp="1598936156912" />
     <state x="1533" y="399" key="#com.intellij.ide.util.MemberChooser/0.23.2048.1189/-2560.-413.2560.1417@0.23.2048.1189" timestamp="1598849431947" />
     <state x="1533" y="401" key="#com.intellij.ide.util.MemberChooser/0.23.2048.1194@0.23.2048.1194" timestamp="1598798960630" />
-    <state x="420" y="188" key="CommitChangelistDialog2" timestamp="1598880612400">
-      <screen x="0" y="23" width="2048" height="1190" />
+    <state x="1533" y="401" key="#com.intellij.ide.util.MemberChooser/0.23.2048.1196/-2560.-413.2560.1417@0.23.2048.1196" timestamp="1599553818216" />
+    <state x="420" y="189" key="CommitChangelistDialog2" timestamp="1599231669079">
+      <screen x="0" y="23" width="2048" height="1196" />
     </state>
     <state x="420" y="188" key="CommitChangelistDialog2/0.23.2048.1190/-2560.-413.2560.1417@0.23.2048.1190" timestamp="1598880612400" />
-    <state width="1875" height="300" key="GridCell.Tab.0.bottom" timestamp="1598935211246">
-      <screen x="0" y="23" width="2048" height="1187" />
+    <state x="420" y="189" key="CommitChangelistDialog2/0.23.2048.1196@0.23.2048.1196" timestamp="1599231669079" />
+    <state width="1875" height="214" key="GridCell.Tab.0.bottom" timestamp="1599553000518">
+      <screen x="0" y="23" width="2048" height="1204" />
     </state>
     <state width="1875" height="300" key="GridCell.Tab.0.bottom/0.23.2048.1187/-2560.-413.2560.1417@0.23.2048.1187" timestamp="1598935211246" />
     <state width="1875" height="367" key="GridCell.Tab.0.bottom/0.23.2048.1189/-2560.-413.2560.1417@0.23.2048.1189" timestamp="1598853120919" />
@@ -242,8 +261,9 @@
     <state width="1875" height="486" key="GridCell.Tab.0.bottom/0.23.2048.1193/-2560.-413.2560.1417@0.23.2048.1193" timestamp="1598855031559" />
     <state width="1875" height="324" key="GridCell.Tab.0.bottom/0.23.2048.1193@0.23.2048.1193" timestamp="1598796350579" />
     <state width="1875" height="119" key="GridCell.Tab.0.bottom/0.23.2048.1194@0.23.2048.1194" timestamp="1598800218581" />
-    <state width="1875" height="300" key="GridCell.Tab.0.center" timestamp="1598935211245">
-      <screen x="0" y="23" width="2048" height="1187" />
+    <state width="1875" height="214" key="GridCell.Tab.0.bottom/0.23.2048.1204/-2560.-413.2560.1417@0.23.2048.1204" timestamp="1599553000518" />
+    <state width="1875" height="214" key="GridCell.Tab.0.center" timestamp="1599553000518">
+      <screen x="0" y="23" width="2048" height="1204" />
     </state>
     <state width="1875" height="300" key="GridCell.Tab.0.center/0.23.2048.1187/-2560.-413.2560.1417@0.23.2048.1187" timestamp="1598935211245" />
     <state width="1875" height="367" key="GridCell.Tab.0.center/0.23.2048.1189/-2560.-413.2560.1417@0.23.2048.1189" timestamp="1598853120918" />
@@ -251,8 +271,9 @@
     <state width="1875" height="486" key="GridCell.Tab.0.center/0.23.2048.1193/-2560.-413.2560.1417@0.23.2048.1193" timestamp="1598855031558" />
     <state width="1875" height="324" key="GridCell.Tab.0.center/0.23.2048.1193@0.23.2048.1193" timestamp="1598796350578" />
     <state width="1875" height="119" key="GridCell.Tab.0.center/0.23.2048.1194@0.23.2048.1194" timestamp="1598800218580" />
-    <state width="1875" height="300" key="GridCell.Tab.0.left" timestamp="1598935211245">
-      <screen x="0" y="23" width="2048" height="1187" />
+    <state width="1875" height="214" key="GridCell.Tab.0.center/0.23.2048.1204/-2560.-413.2560.1417@0.23.2048.1204" timestamp="1599553000518" />
+    <state width="1875" height="214" key="GridCell.Tab.0.left" timestamp="1599553000517">
+      <screen x="0" y="23" width="2048" height="1204" />
     </state>
     <state width="1875" height="300" key="GridCell.Tab.0.left/0.23.2048.1187/-2560.-413.2560.1417@0.23.2048.1187" timestamp="1598935211245" />
     <state width="1875" height="367" key="GridCell.Tab.0.left/0.23.2048.1189/-2560.-413.2560.1417@0.23.2048.1189" timestamp="1598853120917" />
@@ -260,8 +281,9 @@
     <state width="1875" height="486" key="GridCell.Tab.0.left/0.23.2048.1193/-2560.-413.2560.1417@0.23.2048.1193" timestamp="1598855031558" />
     <state width="1875" height="324" key="GridCell.Tab.0.left/0.23.2048.1193@0.23.2048.1193" timestamp="1598796350578" />
     <state width="1875" height="119" key="GridCell.Tab.0.left/0.23.2048.1194@0.23.2048.1194" timestamp="1598800218579" />
-    <state width="1875" height="300" key="GridCell.Tab.0.right" timestamp="1598935211246">
-      <screen x="0" y="23" width="2048" height="1187" />
+    <state width="1875" height="214" key="GridCell.Tab.0.left/0.23.2048.1204/-2560.-413.2560.1417@0.23.2048.1204" timestamp="1599553000517" />
+    <state width="1875" height="214" key="GridCell.Tab.0.right" timestamp="1599553000518">
+      <screen x="0" y="23" width="2048" height="1204" />
     </state>
     <state width="1875" height="300" key="GridCell.Tab.0.right/0.23.2048.1187/-2560.-413.2560.1417@0.23.2048.1187" timestamp="1598935211246" />
     <state width="1875" height="367" key="GridCell.Tab.0.right/0.23.2048.1189/-2560.-413.2560.1417@0.23.2048.1189" timestamp="1598853120918" />
@@ -269,6 +291,7 @@
     <state width="1875" height="486" key="GridCell.Tab.0.right/0.23.2048.1193/-2560.-413.2560.1417@0.23.2048.1193" timestamp="1598855031558" />
     <state width="1875" height="324" key="GridCell.Tab.0.right/0.23.2048.1193@0.23.2048.1193" timestamp="1598796350578" />
     <state width="1875" height="119" key="GridCell.Tab.0.right/0.23.2048.1194@0.23.2048.1194" timestamp="1598800218580" />
+    <state width="1875" height="214" key="GridCell.Tab.0.right/0.23.2048.1204/-2560.-413.2560.1417@0.23.2048.1204" timestamp="1599553000518" />
     <state width="1875" height="300" key="GridCell.Tab.1.bottom" timestamp="1598935211142">
       <screen x="0" y="23" width="2048" height="1187" />
     </state>
@@ -330,10 +353,11 @@
     <state x="561" y="333" key="SettingsEditor/0.23.2048.1189/-2560.-413.2560.1417@0.23.2048.1189" timestamp="1598852986718" />
     <state x="561" y="333" key="SettingsEditor/0.23.2048.1190/-2560.-413.2560.1417@0.23.2048.1190" timestamp="1598850700120" />
     <state x="481" y="262" key="SettingsEditor/0.23.2048.1193@0.23.2048.1193" timestamp="1598796303596" />
-    <state x="569" y="357" key="Vcs.Push.Dialog.v2" timestamp="1598880621896">
-      <screen x="0" y="23" width="2048" height="1190" />
+    <state x="569" y="359" key="Vcs.Push.Dialog.v2" timestamp="1599231678343">
+      <screen x="0" y="23" width="2048" height="1196" />
     </state>
     <state x="569" y="357" key="Vcs.Push.Dialog.v2/0.23.2048.1190/-2560.-413.2560.1417@0.23.2048.1190" timestamp="1598880621896" />
+    <state x="569" y="359" key="Vcs.Push.Dialog.v2/0.23.2048.1196@0.23.2048.1196" timestamp="1599231678343" />
     <state x="626" y="354" key="new project wizard" timestamp="1598878229402">
       <screen x="0" y="23" width="2048" height="1187" />
     </state>
