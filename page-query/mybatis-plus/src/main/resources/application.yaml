@@ -1,0 +1,18 @@
+
+spring:
+  application:
+    name: mybatis-plus-page-query
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    url: jdbc:mysql://127.0.0.1:3306/uum_mgr?useUnicode=true&characterEncoding=UTF-8
+    username: root
+    password: 123456
+
+
+mybatis:
+  config-location: classpath:mapper/*Mapper.xml
+  configuration:
+    map-underscore-to-camel-case: true
+
+server:
+  port: 8099

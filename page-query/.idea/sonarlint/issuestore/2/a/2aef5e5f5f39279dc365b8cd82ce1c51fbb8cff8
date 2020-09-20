@@ -1,0 +1,10 @@
+
+V	java:S125)"<This block of commented-out lines of code should be removed.(ÙÏ»£ýÿÿÿÿ
+V
+java:S1128"9Remove this unused import 'tk.mybatis.mapper.code.Style'.(¬À¾÷8ï­¢ÛÊ.
+[
+java:S1128">Remove this unused import 'tk.mybatis.mapper.MapperException'.(ú™ÆÅ8ï­¢ÛÊ.
+^
+java:S1128"<Remove this unused import 'tk.mybatis.mapper.entity.Config'.(É•õ³ûÿÿÿÿ8ï­¢ÛÊ.
+e
+java:S1128"HRemove this unused import 'tk.mybatis.mapper.mapperhelper.EntityHelper'.(âÜùä8ï­¢ÛÊ.

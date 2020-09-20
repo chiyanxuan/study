@@ -1,0 +1,32 @@
+
+spring:
+  application:
+    name: page-help-query
+  datasource:
+    type: com.zaxxer.hikari.HikariDataSource
+    hikari:
+      driverClassName: com.mysql.cj.jdbc.Driver
+      connection-test-query: select 1
+      maximum-pool-size: 10
+      minimum-idle: 2
+      url: jdbc:mysql://127.0.0.1:3306/uum_mgr?characterEncoding=utf8&serverTimezone=GMT%2B8
+      jdbcUrl: jdbc:mysql://127.0.0.1:3306/uum_mgr?characterEncoding=utf8&serverTimezone=GMT%2B8
+      username: root
+      password: 123456
+
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true
+
+pagehelper:
+  helperDialect: mysql
+  # 分页合理化参数，pageNum<=0 时会查询第一页， pageNum>pages（超过总数时），会查询最后一页
+  reasonable: true
+  # 支持通过 Mapper 接口参数来传递分页参数
+  supportMethodsArguments: true
+  params: count=countSql
+  # 如果 pageSize=0 会查询出全部的结果
+  pageSizeZero: true
+
+server:
+  port: 8098
