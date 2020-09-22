@@ -85,6 +85,55 @@ optional设置为true，依赖不会向下传递，这样我们的条件加载�
 
 
 
+# 附加-添加配置提示
+
+用户在配置的时候，输入nil能够实现联想，具体如何实现的呢？
+
+- starter中引入依赖
+
+  ```xml
+  <dependency>
+              <groupId>org.springframework.boot</groupId>
+              <artifactId>spring-boot-configuration-processor</artifactId>
+              <version>2.3.2.RELEASE</version>
+          </dependency>
+  ```
+
+  
+
+- META-INF下增加additional-spring-configuration-metadata.json
+
+  ```json
+  {
+    "properties": [
+      {
+        "name": "nil.redisson.host",
+        "type": "java.lang.String",
+        "description": "redis服务器地址",
+        "defaultValue": "localhost"
+      },
+      {
+        "name": "nil.redisson.port",
+        "type": "java.lang.Integer",
+        "description": "redis服务器端口",
+        "defaultValue": "6379"
+      }
+    ]
+  }
+  ```
+
+  注意文件名不能错，如果对了会有个绿叶形状![image-20200922233540604](/Users/beccaxi/Library/Application Support/typora-user-images/image-20200922233540604.png)
+
+  
+
+- 重新编译打包
+
+  然后target下能看到下图所示文件，文件里已经包含了所有配置字段的说明
+
+  ![image-20200922233653236](/Users/beccaxi/Library/Application Support/typora-user-images/image-20200922233653236.png)
+
+这样，使用方在配置时输入个nil就会给出提示
+
 
 
 # 使用自己写的starter
