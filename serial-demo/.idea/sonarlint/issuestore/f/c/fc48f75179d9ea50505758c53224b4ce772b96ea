@@ -1,0 +1,11 @@
+
+M
+java:S1128"0Remove this unused import 'sun.awt.geom.AreaOp'.(ßŞıµ8ÁœÁ€Â.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ø¼¢ƒ8ÁœÁ€Â.
+E	java:S108")Either remove or fill this block of code.(Úîø›8Õ©€Â.
+g
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(Ò…Ôû8ÓŒ©€Â.
+Y
+java:S1128"7Remove this unused import 'java.io.ObjectOutputStream'.(é»Óºûÿÿÿÿ8†½€Â.
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(ßŞıµ8ÁœÁ€Â.

@@ -1,0 +1,17 @@
+
+E
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'java.time.DayOfWeek'.(Óò»¸şÿÿÿÿ
+C
+java:S1481"(Remove this unused "dti" local variable.(Ç¶’úÿÿÿÿ
+R
+java:S1854"7Remove this useless assignment to local variable "dti".(Ç¶’úÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+C
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX

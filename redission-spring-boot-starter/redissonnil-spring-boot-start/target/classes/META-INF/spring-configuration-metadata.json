@@ -1,0 +1,38 @@
+{
+  "groups": [
+    {
+      "name": "nil.redisson",
+      "type": "com.nil.starterdemo.RedissonProperties",
+      "sourceType": "com.nil.starterdemo.RedissonProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "nil.redisson.host",
+      "type": "java.lang.String",
+      "description": "redis服务器地址",
+      "sourceType": "com.nil.starterdemo.RedissonProperties",
+      "defaultValue": "localhost"
+    },
+    {
+      "name": "nil.redisson.port",
+      "type": "java.lang.Integer",
+      "description": "redis服务器端口",
+      "sourceType": "com.nil.starterdemo.RedissonProperties",
+      "defaultValue": "6379"
+    },
+    {
+      "name": "nil.redisson.ssl",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.nil.starterdemo.RedissonProperties",
+      "defaultValue": false
+    },
+    {
+      "name": "nil.redisson.timeout",
+      "type": "java.lang.Integer",
+      "sourceType": "com.nil.starterdemo.RedissonProperties",
+      "defaultValue": 0
+    }
+  ],
+  "hints": []
+}

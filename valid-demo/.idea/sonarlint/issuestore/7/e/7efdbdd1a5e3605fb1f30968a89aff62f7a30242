@@ -1,0 +1,21 @@
+
+Œ
+java:S1128"jRemove this unused import 'org.hibernate.validator.internal.metadata.descriptor.ConstraintDescriptorImpl'.(’·ƒŒıÿÿÿÿ8¥„ñòÆ.
+]
+java:S1128	"@Remove this unused import 'javax.swing.text.html.parser.Entity'.(Û‡Ğ‘8ÍÓÃÇ.
+X	java:S125*"<This block of commented-out lines of code should be removed.(ü½æá8ØËÎ”È.
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(Å¥ˆÕ8 ÆêÃÇ.
+X	java:S125'"<This block of commented-out lines of code should be removed.(Ä¢²ì8ÒÇÅÇ.
+X	java:S125"<This block of commented-out lines of code should be removed.(ÚÚº”8®‚íÃÇ.
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(š¹Ê“ıÿÿÿÿ8 ÆêÃÇ.
+…
+java:S1128"hRemove this unused import 'org.hibernate.validator.internal.metadata.descriptor.PropertyDescriptorImpl'.(›–¯8Š‡½òÆ.
+†
+java:S1128"dRemove this unused import 'org.hibernate.validator.internal.metadata.descriptor.BeanDescriptorImpl'.(èÚŸÙøÿÿÿÿ8êÂµòÆ.
+J
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8Š‡½òÆ.
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(½Ë°8 ÆêÃÇ.
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(ú•€Ë8 ÆêÃÇ.
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8 ÆêÃÇ.
+U	java:S106I"9Replace this use of System.out or System.err by a logger.(ú•€Ë8 ÆêÃÇ.
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(š ëÔøÿÿÿÿ8„ôÎÄÇ.

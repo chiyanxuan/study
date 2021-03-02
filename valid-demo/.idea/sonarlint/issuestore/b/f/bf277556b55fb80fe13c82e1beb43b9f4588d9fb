@@ -1,0 +1,10 @@
+
+F
+java:S1068"+Remove this unused "message" private field.(ù„è¿ûÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(¯ÎýÉ
+t
+java:S1450"RRemove the "key" field and declare it as a local variable in the relevant methods.(žþÅ¨ùÿÿÿÿ8Î§‚ÄÇ.
+I
+java:S1068"'Remove this unused "key" private field.(žþÅ¨ùÿÿÿÿ8½ÿÃÇ.
+q
+java:S1450"VRemove the "message" field and declare it as a local variable in the relevant methods.(ù„è¿ûÿÿÿÿ

@@ -1,0 +1,10 @@
+
+x
+java:S1450"VRemove the "message" field and declare it as a local variable in the relevant methods.(ù„è¿ûÿÿÿÿ8ìÜëÍÅ.
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(¿‚´ùÿÿÿÿ8ô«ñÍÅ.
+p
+java:S1450"SRemove the "name" field and declare it as a local variable in the relevant methods.(Ë¥¼8ìÜëÍÅ.
+M
+java:S1068"+Remove this unused "message" private field.(ù„è¿ûÿÿÿÿ8¾åÍÅ.
+E
+java:S1068"(Remove this unused "name" private field.(Ë¥¼8¾åÍÅ.

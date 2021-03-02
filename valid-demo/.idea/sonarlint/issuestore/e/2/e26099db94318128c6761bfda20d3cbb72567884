@@ -1,0 +1,19 @@
+
+E
+java:S1068"(Remove this unused "name" private field.(Ë¥¼8Œâ«ÆÇ.
+|
+java:S1450"ZRemove the "ifCondition" field and declare it as a local variable in the relevant methods.(×Å¿øÿÿÿÿ8³‹”È.
+u
+java:S1450"SRemove the "then" field and declare it as a local variable in the relevant methods.(ƒ‹ª¥øÿÿÿÿ8³‹”È.
+M
+java:S1068"+Remove this unused "message" private field.(ù„è¿ûÿÿÿÿ8Œâ«ÆÇ.
+q
+java:S1450"VRemove the "message" field and declare it as a local variable in the relevant methods.(ù„è¿ûÿÿÿÿ
+J
+java:S1068"(Remove this unused "then" private field.(ƒ‹ª¥øÿÿÿÿ8³‹”È.
+i
+java:S1450"SRemove the "name" field and declare it as a local variable in the relevant methods.(Ë¥¼
+Q
+java:S1068"/Remove this unused "ifCondition" private field.(×Å¿øÿÿÿÿ8³‹”È.
+X	java:S125("<This block of commented-out lines of code should be removed.(øÃÚ±8³‹”È.
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(â¿¾8Œâ«ÆÇ.

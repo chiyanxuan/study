@@ -1,0 +1,6 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(å‚­ãýÿÿÿÿ8è®çƒÃ.
+Z
+java:S1128"=Remove this unused import 'com.thoughtworks.xstream.XStream'.(¨Î•Õ8è®çƒÃ.
+h
+java:S1128"FRemove this unused import 'com.thoughtworks.xstream.io.xml.DomDriver'.( É¯Àùÿÿÿÿ8è®çƒÃ.

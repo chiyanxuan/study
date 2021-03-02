@@ -147,22 +147,42 @@ make install
   查看状态：  sestatus
   永久关闭：  vi /etc/selinux/config    设置 SELINUX=disabled
   临时关闭：  setenforce 0
+  
 - 2、安装启动
   yum install gcc pcre openssl
   yum install ipvsadm
   yum install keepalived
+  
 - 3、设置自动启动
   CentOS6: chkconfig keepalived on
   CentOS7: systemctl enable keepalived.service
+  
 - 4、启动
   CentOS6: service keepalived start
   CentOS7: systemctl start keepalived.service
+  
 - 5、检查进程
   ps -aux |grep keepalived
   检查虚拟IP
   ip addr
   检查运行日志
   tail -f /var/log/messages
+  
+  
+
+### 查看IP和光口
+
+ip addr
+
+​     ![image-20210202194930716](/Users/beccaxi/Library/Application Support/typora-user-images/image-20210202194930716.png)                          
+
+如上图所示：光口就是eth1，IP是9.134.111.212
+
+### 查看主机名称
+
+hostname
+
+![image-20210202194951056](/Users/beccaxi/Library/Application Support/typora-user-images/image-20210202194951056.png)
 
 
 

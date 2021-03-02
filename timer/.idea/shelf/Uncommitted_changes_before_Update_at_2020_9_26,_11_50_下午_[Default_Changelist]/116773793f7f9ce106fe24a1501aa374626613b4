@@ -1,0 +1,73 @@
+
+H
+java:S1199`"-Extract this nested code block into a method.(ê×Êüÿÿÿÿ
+C
+java:S1199f"-Extract this nested code block into a method.(İ…î½
+H
+java:S1199k"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ
+K
+java:S1066Œ"/Merge this if statement with the enclosing one.(µ§øŸøÿÿÿÿ
+E
+java:S1066‘"/Merge this if statement with the enclosing one.(Ÿøƒ
+f	java:S117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß”â¢
+g	java:S117Ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÓ¡€
+l	java:S117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¤¢öøÿÿÿÿ
+u
+java:S1488ƒ"_Immediately return this expression instead of assigning it to the temporary variable "builder".(«‰Ÿ~
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ƒ°‡ıÿÿÿÿ
+J
+java:S1172	"/Remove this unused method parameter "registry".(•óÊõÿÿÿÿÿ
+
+java:S4144Ú"cUpdate this method so that its implementation is not identical to "getDefaultInstance" on line 705.(õß¯¦øÿÿÿÿ
+n
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(áè±Í
+k	java:S116‹"URename this field "bitField0_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö»³Ä
+f	java:S116"PRename this field "name_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áè±Í
+j	java:S116½"ORename this field "age_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à”Åšÿÿÿÿÿ
+>
+java:S1948"'Make "name_" transient or serializable.(áè±Í
+
+java:S1845Ğ"eRename method "parser" to prevent any misunderstanding/clash with field "PARSER" defined on line 710.(Åè¿¨úÿÿÿÿ
+]
+java:S1126”"AReplace this if-then-else statement by a single return statement.(®Èäîÿÿÿÿÿ
+J
+java:S1874¯".Remove this use of "PARSER"; it is deprecated.(‘±ÌÙûÿÿÿÿ
+J
+java:S1874µ".Remove this use of "PARSER"; it is deprecated.(Èñš´şÿÿÿÿ
+J
+java:S1874º".Remove this use of "PARSER"; it is deprecated.(‘±ÌÙûÿÿÿÿ
+J
+java:S1874À".Remove this use of "PARSER"; it is deprecated.(Èñš´şÿÿÿÿ
+J
+java:S1874Ä".Remove this use of "PARSER"; it is deprecated.(‘±ÌÙûÿÿÿÿ
+J
+java:S1874Ê".Remove this use of "PARSER"; it is deprecated.(Èñš´şÿÿÿÿ
+E
+java:S1874Ï".Remove this use of "PARSER"; it is deprecated.(ó•È
+E
+java:S1874Ö".Remove this use of "PARSER"; it is deprecated.(¦ï¡ƒ
+E
+java:S1874Û".Remove this use of "PARSER"; it is deprecated.(†‰ä
+J
+java:S1874â".Remove this use of "PARSER"; it is deprecated.(¦í·ãıÿÿÿÿ
+E
+java:S1874è".Remove this use of "PARSER"; it is deprecated.(ó•È
+E
+java:S1874ï".Remove this use of "PARSER"; it is deprecated.(¦ï¡ƒ
+k	java:S116¯"URename this field "bitField0_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö»³Ä
+e	java:S116±"PRename this field "name_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñœã/
+j	java:S116…"ORename this field "age_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à”Åšÿÿÿÿÿ
+?	java:S108¦")Either remove or fill this block of code.(º„ç½
+o
+java:S2975Ú"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Îõ¾Òûÿÿÿÿ
+X
+java:S1126—"AReplace this if-then-else statement by a single return statement.(»µ¹
+D
+java:S1874¤".Remove this use of "PARSER"; it is deprecated.(éşã%
+J
+java:S1874Ñ".Remove this use of "PARSER"; it is deprecated.(·Œšºøÿÿÿÿ
+J
+java:S1874Ö".Remove this use of "PARSER"; it is deprecated.(·Œšºøÿÿÿÿ
+M
+java:S1481U"7Remove this unused "mutable_bitField0_" local variable.(ß”â¢

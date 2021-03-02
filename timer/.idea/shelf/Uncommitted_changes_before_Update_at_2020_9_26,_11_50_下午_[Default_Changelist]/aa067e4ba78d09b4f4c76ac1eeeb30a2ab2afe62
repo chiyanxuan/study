@@ -1,0 +1,9 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Øªô8é®çƒÃ.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹Ğì¶øÿÿÿÿ8é®çƒÃ.
+j
+java:S1128"HRemove this unused import 'com.nil.study.serial.javaSer.JavaSerializer'.(âĞæÆúÿÿÿÿ8é®çƒÃ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÛªÎÅúÿÿÿÿ8é®çƒÃ.
+X	java:S125"<This block of commented-out lines of code should be removed.(Øªô8é®çƒÃ.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(´şµ8é®çƒÃ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8é®çƒÃ.

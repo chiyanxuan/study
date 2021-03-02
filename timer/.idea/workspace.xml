@@ -2,15 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="313f5215-da20-4454-b884-1bf0a2372d1f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../redission-spring-boot-starter/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redission-spring-boot-starter/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redission-spring-boot-starter/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redission-spring-boot-starter/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redission-spring-boot-starter/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redission-spring-boot-starter/.idea/sonarlint/issuestore/3/5/35a0988152e92cd7e22a7f88e9b359916c1fbde5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redission-spring-boot-starter/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redission-spring-boot-starter/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redission-spring-boot-starter/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redission-spring-boot-starter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redission-spring-boot-starter/demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redission-spring-boot-starter/demo/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redission-spring-boot-starter/demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redission-spring-boot-starter/demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redission-spring-boot-starter/demo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redission-spring-boot-starter/demo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redission-spring-boot-starter/redissonnil-spring-boot-start/target/classes/META-INF/spring.factories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redission-spring-boot-starter/redissonnil-spring-boot-start/target/classes/com/nil/starterdemo/RedissionAutoConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redission-spring-boot-starter/redissonnil-spring-boot-start/target/classes/com/nil/starterdemo/RedissonProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redission-spring-boot-starter/redissonnil-spring-boot-start/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redission-spring-boot-starter/redissonnil-spring-boot-start/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redission-spring-boot-starter/redissonnil-spring-boot-start/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redission-spring-boot-starter/redissonnil-spring-boot-start/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redission-spring-boot-starter/redissonnil-spring-boot-start/target/redissonnil-spring-boot-start-1.0-SNAPSHOT.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/jarRepositories.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/sonarlint/issuestore/0/5/0523245ba27f6ae64b54e08f0e19e31026f084d3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/sonarlint/issuestore/1/1/116773793f7f9ce106fe24a1501aa374626613b4" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/sonarlint/issuestore/1/2/12dea96fec20593566ab75692c9949596833adc9" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/sonarlint/issuestore/1/e/1e82d505a87c5f6307390f140cf52b0fec86acaa" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/sonarlint/issuestore/2/1/21cbe1b20f9aef90c5c9ffda469b0e70faab7c07" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/sonarlint/issuestore/2/5/25658356042a2e04b650325e52632da9a94641a3" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/sonarlint/issuestore/5/4/548aebd64fdba5b75def3baa0c8df64ac54f6c97" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../serial-demo/.idea/sonarlint/issuestore/6/3/63dff1a7deb7d5c4e1ac4ad7a3ec00970aba8355" afterDir="false" />
@@ -53,23 +79,29 @@
       <change afterPath="$PROJECT_DIR$/../serial-demo/target/classes/com/nil/study/serial/xmlSer/XMLSerializer.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../serial-demo/target/classes/com/nil/study/serial/xmlSer/XMLSerializerTest.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../serial-demo/target/classes/序列化.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-quratz/src/main/java/com/example/springbootquratz/AdaptableJobFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-quratz/src/main/java/com/example/springbootquratz/BaseJob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-quratz/src/main/java/com/example/springbootquratz/InitStartSchedule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-quratz/src/main/java/com/example/springbootquratz/MyJobFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-quratz/src/main/java/com/example/springbootquratz/SchedulerUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-quratz/src/main/java/com/example/springbootquratz/entity/SysJob.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../valid-demo/custom-valid/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../valid-demo/custom-valid/src/main/java/com/tencent/valid/ConditionEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../valid-demo/custom-valid/src/main/java/com/tencent/valid/ConditionValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../valid-demo/custom-valid/src/main/java/com/tencent/valid/If.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../valid-demo/custom-valid/src/main/java/com/tencent/valid/MyValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../valid-demo/custom-valid/src/main/java/com/tencent/valid/MyValidatorClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../valid-demo/custom-valid/src/main/java/com/tencent/valid/Then.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../valid-demo/custom-valid/src/main/java/com/tencent/validator/ConditionValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../valid-demo/custom-valid/src/main/java/com/tencent/validator/IfValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../valid-demo/custom-valid/src/main/java/com/tencent/validator/MyValidatorClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../valid-demo/custom-valid/src/main/java/com/tencent/validator/ThenValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../valid-demo/demo/src/main/java/com/example/demo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../valid-demo/demo/src/main/java/com/example/demo/aop/ValidAop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../valid-demo/demo/src/main/java/com/example/demo/aop/WebLogAcpect.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../valid-demo/demo/src/main/java/com/example/demo/bean/Student.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../valid-demo/demo/src/main/java/com/example/demo/controller/HelloWorldController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../valid-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../page-query/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../page-query/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redission-spring-boot-starter/redissonnil-spring-boot-start/src/main/resources/META-INF/additional-spring-configuration-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-demo/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-demo/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-demo/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-demo/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-quratz/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-quratz/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../学习笔记/日常学习记录.md" beforeDir="false" afterPath="$PROJECT_DIR$/../学习笔记/日常学习记录.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../学习笔记/日常记录.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,7 +239,10 @@
       <workItem from="1598855049959" duration="568000" />
       <workItem from="1598860981298" duration="6171000" />
       <workItem from="1598950798335" duration="2975000" />
-      <workItem from="1599553743539" duration="1191000" />
+      <workItem from="1599553743539" duration="1271000" />
+      <workItem from="1600698325802" duration="1861000" />
+      <workItem from="1601135214579" duration="571000" />
+      <workItem from="1602118675651" duration="103000" />
     </task>
     <task id="LOCAL-00001" summary="定时器学习">
       <created>1598880612671</created>
@@ -223,7 +258,28 @@
       <option name="project" value="LOCAL" />
       <updated>1599231669347</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="定时器-对quartz的任务的基本crud，同时springboot服务启动自动加载任务执行">
+      <created>1599555021755</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599555021755</updated>
+    </task>
+    <task id="LOCAL-00004" summary="quartz补充">
+      <created>1600701427400</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600701427400</updated>
+    </task>
+    <task id="LOCAL-00005" summary="nginx+keepalived搭建高可用集群">
+      <created>1601135312833</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601135312833</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,7 +287,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="定时器学习" />
-    <option name="LAST_COMMIT_MESSAGE" value="定时器学习" />
+    <MESSAGE value="定时器-对quartz的任务的基本crud，同时springboot服务启动自动加载任务执行" />
+    <MESSAGE value="quartz补充" />
+    <MESSAGE value="nginx+keepalived搭建高可用集群" />
+    <option name="LAST_COMMIT_MESSAGE" value="nginx+keepalived搭建高可用集群" />
   </component>
   <component name="WindowStateProjectService">
     <state x="756" y="204" key="#Project_Structure" timestamp="1598878262851">
@@ -240,6 +299,10 @@
     <state x="756" y="204" key="#Project_Structure/0.23.2048.1187/-2560.-413.2560.1417@0.23.2048.1187" timestamp="1598878262851" />
     <state x="756" y="204" key="#Project_Structure/0.23.2048.1189/-2560.-413.2560.1417@0.23.2048.1189" timestamp="1598853040248" />
     <state x="756" y="204" key="#Project_Structure/0.23.2048.1190/-2560.-413.2560.1417@0.23.2048.1190" timestamp="1598848708479" />
+    <state x="666" y="430" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601135496740">
+      <screen x="0" y="23" width="2048" height="1185" />
+    </state>
+    <state x="666" y="430" key="#com.intellij.fileTypes.FileTypeChooser/0.23.2048.1185@0.23.2048.1185" timestamp="1601135496740" />
     <state x="1533" y="401" key="#com.intellij.ide.util.MemberChooser" timestamp="1599553818216">
       <screen x="0" y="23" width="2048" height="1196" />
     </state>
@@ -247,11 +310,18 @@
     <state x="1533" y="399" key="#com.intellij.ide.util.MemberChooser/0.23.2048.1189/-2560.-413.2560.1417@0.23.2048.1189" timestamp="1598849431947" />
     <state x="1533" y="401" key="#com.intellij.ide.util.MemberChooser/0.23.2048.1194@0.23.2048.1194" timestamp="1598798960630" />
     <state x="1533" y="401" key="#com.intellij.ide.util.MemberChooser/0.23.2048.1196/-2560.-413.2560.1417@0.23.2048.1196" timestamp="1599553818216" />
-    <state x="420" y="189" key="CommitChangelistDialog2" timestamp="1599231669079">
-      <screen x="0" y="23" width="2048" height="1196" />
+    <state x="420" y="188" key="CommitChangelistDialog2" timestamp="1601135312580">
+      <screen x="0" y="23" width="2048" height="1185" />
     </state>
+    <state x="420" y="188" key="CommitChangelistDialog2/0.23.2048.1185@0.23.2048.1185" timestamp="1601135312580" />
     <state x="420" y="188" key="CommitChangelistDialog2/0.23.2048.1190/-2560.-413.2560.1417@0.23.2048.1190" timestamp="1598880612400" />
+    <state x="420" y="189" key="CommitChangelistDialog2/0.23.2048.1195/-2560.-413.2560.1417@0.23.2048.1195" timestamp="1599555021490" />
     <state x="420" y="189" key="CommitChangelistDialog2/0.23.2048.1196@0.23.2048.1196" timestamp="1599231669079" />
+    <state x="420" y="191" key="CommitChangelistDialog2/0.23.2048.1208@0.23.2048.1208" timestamp="1600701427133" />
+    <state x="106" y="143" key="DiffContextDialog" timestamp="1601135257180">
+      <screen x="0" y="23" width="2048" height="1185" />
+    </state>
+    <state x="106" y="143" key="DiffContextDialog/0.23.2048.1185@0.23.2048.1185" timestamp="1601135257180" />
     <state width="1875" height="214" key="GridCell.Tab.0.bottom" timestamp="1599553000518">
       <screen x="0" y="23" width="2048" height="1204" />
     </state>
@@ -353,19 +423,26 @@
     <state x="561" y="333" key="SettingsEditor/0.23.2048.1189/-2560.-413.2560.1417@0.23.2048.1189" timestamp="1598852986718" />
     <state x="561" y="333" key="SettingsEditor/0.23.2048.1190/-2560.-413.2560.1417@0.23.2048.1190" timestamp="1598850700120" />
     <state x="481" y="262" key="SettingsEditor/0.23.2048.1193@0.23.2048.1193" timestamp="1598796303596" />
-    <state x="569" y="359" key="Vcs.Push.Dialog.v2" timestamp="1599231678343">
-      <screen x="0" y="23" width="2048" height="1196" />
+    <state x="569" y="357" key="Vcs.Push.Dialog.v2" timestamp="1601135433102">
+      <screen x="0" y="23" width="2048" height="1185" />
     </state>
+    <state x="569" y="357" key="Vcs.Push.Dialog.v2/0.23.2048.1185@0.23.2048.1185" timestamp="1601135433102" />
     <state x="569" y="357" key="Vcs.Push.Dialog.v2/0.23.2048.1190/-2560.-413.2560.1417@0.23.2048.1190" timestamp="1598880621896" />
+    <state x="569" y="359" key="Vcs.Push.Dialog.v2/0.23.2048.1195/-2560.-413.2560.1417@0.23.2048.1195" timestamp="1599555031574" />
     <state x="569" y="359" key="Vcs.Push.Dialog.v2/0.23.2048.1196@0.23.2048.1196" timestamp="1599231678343" />
-    <state x="626" y="354" key="new project wizard" timestamp="1598878229402">
-      <screen x="0" y="23" width="2048" height="1187" />
+    <state x="569" y="363" key="Vcs.Push.Dialog.v2/0.23.2048.1208@0.23.2048.1208" timestamp="1600701435759" />
+    <state x="633" y="417" key="git4idea.merge.GitPullDialog" timestamp="1601135377721">
+      <screen x="0" y="23" width="2048" height="1185" />
+    </state>
+    <state x="633" y="417" key="git4idea.merge.GitPullDialog/0.23.2048.1185@0.23.2048.1185" timestamp="1601135377721" />
+    <state x="626" y="356" key="new project wizard" timestamp="1602118771698">
+      <screen x="0" y="23" width="2048" height="1193" />
     </state>
     <state x="626" y="354" key="new project wizard/0.23.2048.1187/-2560.-413.2560.1417@0.23.2048.1187" timestamp="1598878229402" />
     <state x="626" y="355" key="new project wizard/0.23.2048.1189/-2560.-413.2560.1417@0.23.2048.1189" timestamp="1598849305230" />
     <state x="626" y="355" key="new project wizard/0.23.2048.1190/-2560.-413.2560.1417@0.23.2048.1190" timestamp="1598848697860" />
     <state x="626" y="356" key="new project wizard/0.23.2048.1192@0.23.2048.1192" timestamp="1598796055138" />
-    <state x="626" y="356" key="new project wizard/0.23.2048.1193@0.23.2048.1193" timestamp="1598796119969" />
+    <state x="626" y="356" key="new project wizard/0.23.2048.1193@0.23.2048.1193" timestamp="1602118771698" />
     <state x="626" y="356" key="new project wizard/0.23.2048.1194@0.23.2048.1194" timestamp="1598795810345" />
     <state x="1237" y="363" width="670" height="676" key="search.everywhere.popup" timestamp="1598799272642">
       <screen x="0" y="23" width="2048" height="1194" />

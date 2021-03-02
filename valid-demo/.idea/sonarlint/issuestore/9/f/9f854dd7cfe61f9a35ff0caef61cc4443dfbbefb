@@ -1,0 +1,23 @@
+
+]	java:S125!"<This block of commented-out lines of code should be removed.(ÿä­úýÿÿÿÿ8¢«á•È.
+X	java:S1256"<This block of commented-out lines of code should be removed.(ü½æá8²‰ã–È.
+X	java:S125D"<This block of commented-out lines of code should be removed.(û™¹Ó8²˜†”È.
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(ïì…­8°ü€”È.
+]	java:S125"<This block of commented-out lines of code should be removed.(ÿä­úýÿÿÿÿ8ëŸ¶•È.
+]	java:S1251"<This block of commented-out lines of code should be removed.(£âÉƒþÿÿÿÿ8­¤ã–È.
+ž
+java:S1186$"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Âéò¤8 û©–È.
+C
+java:S1481*"&Remove this unused "o" local variable.(œ²È„8†Ìå–È.
+T	java:S106)"9Replace this use of System.out or System.err by a logger.(çèr8°ü€”È.
+S
+java:S1144/"1Remove this unused private "beanValidate" method.(ø¦ÿÔûÿÿÿÿ8²‰ã–È.
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(š ëÔøÿÿÿÿ8²‰ã–È.
+]	java:S125"<This block of commented-out lines of code should be removed.(ÿä­úýÿÿÿÿ8³¯Í•È.
+R
+java:S1854*"5Remove this useless assignment to local variable "o".(œ²È„8†Ìå–È.
+]	java:S125"<This block of commented-out lines of code should be removed.(ÿä­úýÿÿÿÿ8ŽÕõ”È.
+}
+java:S1128"`Remove this unused import 'org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint'.(¬ ‘™8è·–È.
+X	java:S1253"<This block of commented-out lines of code should be removed.(Ä¢²ì8²‰ã–È.
+]	java:S125"<This block of commented-out lines of code should be removed.(ÿä­úýÿÿÿÿ8ø®¢•È.

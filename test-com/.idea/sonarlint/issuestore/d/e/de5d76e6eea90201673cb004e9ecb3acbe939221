@@ -1,0 +1,10 @@
+
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½‡¸ë
+G
+java:S1602W",Remove useless curly braces around statement(ÓèÌŸşÿÿÿÿ
+g	java:S117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ñ€ğ
+B
+java:S3011",This accessibility update should be removed.(¦¾Ãı
+\	java:S112œ"FDefine and throw a dedicated exception instead of using a generic one.(Ô Æ“
+Q
+java:S1141€"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ

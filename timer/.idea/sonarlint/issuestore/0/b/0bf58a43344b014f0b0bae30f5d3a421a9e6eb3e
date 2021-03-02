@@ -1,0 +1,19 @@
+
+x
+java:S1450"[Remove the "jobClassPath" field and declare it as a local variable in the relevant methods.(“«¦ì8†ôÛ­Ğ.
+C
+java:S1068"&Remove this unused "id" private field.(£ú¡•8†ôÛ­Ğ.
+M
+java:S1068"+Remove this unused "jobName" private field.(’ğ…’øÿÿÿÿ8†ôÛ­Ğ.
+I
+java:S1068",Remove this unused "jobGroup" private field.(ì¤É¤8†ôÛ­Ğ.
+H
+java:S1068"+Remove this unused "jobCron" private field.(¼¿­â8†ôÛ­Ğ.
+M
+java:S1068"0Remove this unused "jobClassPath" private field.(“«¦ì8†ôÛ­Ğ.
+R
+java:S1068"0Remove this unused "jobStatusStr" private field.(æ•ÇÉùÿÿÿÿ8†ôÛ­Ğ.
+L
+java:S1068"/Remove this unused "jobDescribe" private field.(Øğ8†ôÛ­Ğ.
+P
+java:S1068".Remove this unused "jobDataMap" private field.(ëìæÒùÿÿÿÿ8†ôÛ­Ğ.

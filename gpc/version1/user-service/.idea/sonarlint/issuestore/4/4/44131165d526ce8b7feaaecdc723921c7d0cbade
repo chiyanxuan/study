@@ -1,0 +1,11 @@
+
+t
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "socket".(ò©·Ù
+K
+java:S1128"0Remove this unused import 'java.io.ObjectInput'.(…°ã‡ÿÿÿÿÿ
+Z
+java:S2147,"DCombine this catch with the one at line 42, which has the same body.(ýàÑÎ
+M
+java:S1135/"2Complete the task associated to this TODO comment.(´úàÿûÿÿÿÿ
+E
+java:S2093""*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ

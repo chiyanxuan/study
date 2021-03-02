@@ -1,0 +1,10 @@
+
+I
+java:S3011u",This accessibility update should be removed.(¦¾Ãı8£ÔÊİÒ.
+N
+java:S1602M",Remove useless curly braces around statement(ÓèÌŸşÿÿÿÿ8£ÔÊİÒ.
+W
+java:S1141v"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8£ÔÊİÒ.
+m	java:S117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ñ€ğ8£ÔÊİÒ.
+m	java:S117w"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½‡¸ë8£ÔÊİÒ.
+c	java:S112’"FDefine and throw a dedicated exception instead of using a generic one.(Ô Æ“8£ÔÊİÒ.

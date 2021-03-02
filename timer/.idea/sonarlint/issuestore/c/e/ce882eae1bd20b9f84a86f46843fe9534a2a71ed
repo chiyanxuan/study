@@ -1,0 +1,23 @@
+
+\	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(®ù±¨
+\	java:S112‚"FDefine and throw a dedicated exception instead of using a generic one.(İÈšÔ
+Q
+java:S1128	"4Remove this unused import 'org.slf4j.LoggerFactory'.(–ÿÚŞ8Ÿ©—çÆ.
+a	java:S112¥"FDefine and throw a dedicated exception instead of using a generic one.(±Œ˜Âıÿÿÿÿ
+\	java:S112™"FDefine and throw a dedicated exception instead of using a generic one.(Û¤•ô
+t
+java:S1488†"]Immediately return this expression instead of assigning it to the temporary variable "state".(¨ÑËë
+U
+java:S1118":Add a private constructor to hide the implicit public one.(Ò˜äÏûÿÿÿÿ
+`	java:S112l"FDefine and throw a dedicated exception instead of using a generic one.(ËÔŒÙÿÿÿÿÿ
+[	java:S1128"FDefine and throw a dedicated exception instead of using a generic one.(ıÃÏ±
+J
+java:S1874¨"3Remove this use of "newInstance"; it is deprecated.(ÆÿŞ
+a	java:S112ª"FDefine and throw a dedicated exception instead of using a generic one.(ÀÂÛ‹üÿÿÿÿ
+`	java:S112O"FDefine and throw a dedicated exception instead of using a generic one.(˜¶‰ÿıÿÿÿÿ
+[	java:S112z"FDefine and throw a dedicated exception instead of using a generic one.(¡†÷á
+I
+java:S1128"-Remove this unused import 'org.slf4j.Logger'.(íØ®68Ÿ©—çÆ.
+N	java:S106y"9Replace this use of System.out or System.err by a logger.(Ô¡”°
+`	java:S112\"FDefine and throw a dedicated exception instead of using a generic one.(çƒØùÿÿÿÿ
+[	java:S112B"FDefine and throw a dedicated exception instead of using a generic one.(åŞü
